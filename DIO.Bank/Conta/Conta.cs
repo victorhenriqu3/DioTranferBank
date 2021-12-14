@@ -48,7 +48,7 @@ namespace DIO.Bank
 
         public override string ToString()
         {
-            return $"TipoConta: {this.TipoConta} | Nome: {this.Nome} | Saldo: {this.Saldo} | Credito: {this.Credito}";
+            return $"TipoConta: {this.TipoConta} | Nome: {this.Nome} | Saldo: R$ {this.Saldo} | Credito: R$ {this.Credito}";
         }
     }
 }
