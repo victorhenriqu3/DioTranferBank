@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\USER\\.nuget\\packages\\": {}
+    "C:\\Users\\victor.henrique\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DioTranferBank\\DIO.Bank\\DIO.Bank.csproj",
+      "projectUniqueName": "C:\\Users\\victor.henrique\\Desktop\\DioTranferBank\\Dio.Bank\\DIO.Bank.csproj",
       "projectName": "DIO.Bank",
-      "projectPath": "D:\\DioTranferBank\\DIO.Bank\\DIO.Bank.csproj",
-      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "D:\\DioTranferBank\\DIO.Bank\\obj\\",
+      "projectPath": "C:\\Users\\victor.henrique\\Desktop\\DioTranferBank\\Dio.Bank\\DIO.Bank.csproj",
+      "packagesPath": "C:\\Users\\victor.henrique\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\victor.henrique\\Desktop\\DioTranferBank\\Dio.Bank\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\victor.henrique\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
